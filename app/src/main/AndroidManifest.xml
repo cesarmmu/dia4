@@ -15,11 +15,12 @@
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2" />
         <activity android:name=".navegador" />
-        <activity android:name=".Autocomplete"></activity>
-        <activity android:name=".ListaPrimera">
+        <activity android:name=".Autocomplete" />
+        <activity android:name=".ListaPrimera"></activity>
+        <activity android:name=".SpinnerActivity">
 
         </activity>
-        <activity android:name=".SpinnerActivity">
+        <activity android:name=".ListaPersonalizada">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
